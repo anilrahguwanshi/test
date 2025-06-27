@@ -62,7 +62,8 @@ html,body{
     position: relative;
     width: 100px;
     height: 100px;
-    background-image: url(/03.jpeg);
+    background-image: url(03.jpeg); /* if image is in same folder */
+
     background-size: cover;
     background-position: center; 
     border-radius: 50px;
